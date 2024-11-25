@@ -18,4 +18,4 @@ ghcr.io/songquanpeng/one-api:v0.6.7
 mysql:8
 tdengine/tdengine:3.2.2.0
 apache/hertzbeat
-nacos
+nacos/nacos-server
