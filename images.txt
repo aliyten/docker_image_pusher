@@ -5,8 +5,9 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ollama/ollama
-redis
-mysql
+#redis最新版在wsl2中启动会报错
+redis:6.0.8
+mysql:8.0
 adoptopenjdk/openjdk11
 postgres
 mongo
