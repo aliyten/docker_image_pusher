@@ -20,3 +20,4 @@ mysql:8
 tdengine/tdengine:3.2.2.0
 apache/hertzbeat
 nacos/nacos-server
+chishin/nginx-proxy-manager-zh
