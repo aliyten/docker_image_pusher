@@ -5,9 +5,8 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ollama/ollama
-#redis最新版在wsl2中启动会报错
-redis:6.0.8
-mysql
+mysql:8.0.31
+redis:6.2.7
 adoptopenjdk/openjdk11
 postgres
 mongo
@@ -16,7 +15,6 @@ pgvector/pgvector:0.7.0-pg15
 registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt-sandbox:latest
 registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt:v4.8.9
 ghcr.io/songquanpeng/one-api:v0.6.7
-mysql:8
 tdengine/tdengine:3.2.2.0
 apache/hertzbeat
 nacos/nacos-server
