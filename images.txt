@@ -5,9 +5,6 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ollama/ollama
-mysql:8.0.31
-redis:6.2.7
-adoptopenjdk/openjdk11
 postgres
 mongo
 mongo:5.0.18
@@ -20,11 +17,15 @@ apache/hertzbeat
 nacos/nacos-server
 chishin/nginx-proxy-manager-zh
 minio/minio
+minio/minio:RELEASE.2023-04-13T03-08-07Z
 mysql:8.0.33
+mysql:8.0.31
 nginx:1.23.4
 redis:6.2.12
-minio/minio:RELEASE.2023-04-13T03-08-07Z
+redis:6.2.7
 anapsix/alpine-java:8_server-jre_unlimited
+adoptopenjdk/openjdk11
+bellsoft/liberica-openjdk-debian:11.0.25-cds
 bellsoft/liberica-openjdk-debian:17.0.11-cds
 bellsoft/liberica-openjdk-debian:21.0.3-cds
 findepi/graalvm:java17-native
