@@ -34,3 +34,4 @@ kibana:7.17.6
 logstash:7.17.6
 apache/skywalking-oap-server:9.7.0
 apache/skywalking-ui:9.7.0
+ghcr.io/home-assistant/home-assistant:stable
